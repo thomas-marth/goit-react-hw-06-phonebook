@@ -1,17 +1,19 @@
 {
-  "name": "goit-react-hw-02-phonebook",
+  "name": "goit-react-hw-06-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thomas-marth.github.io/goit-react-hw-03-phonebook",
+  "homepage": "https://thomas-marth.github.io/goit-react-hw-06-phonebook",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.3",
     "gh-pages": "^3.1.0",
+    "normalize.css": "^8.0.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
     "shortid": "^2.2.15",
+    "uuidv4": "^6.2.6",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
