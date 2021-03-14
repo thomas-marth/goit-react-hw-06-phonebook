@@ -1,0 +1,7 @@
+// eslint-disable-next-line
+export default {
+  FETCH_CONTACTS: "FETCH_CONTACTS",
+  ADD_CONTACT: "ADD_CONTACT",
+  DELETE_CONTACT: "DELETE_CONTACT",
+  FILTER_CONTACTS: "FILTER_CONTACTS",
+};
